@@ -1,10 +1,3 @@
-Contents:
-	The tar file contains 4 files in total.
-		-morse_code.c
-		-refugee_management.c
-		-number_converter.c
-		-Readme.txt
-
 Compiling instructions...
 
 	For morse_code.c:
