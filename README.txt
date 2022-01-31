@@ -1,7 +1,3 @@
-Name: Alex Nedev
-
-Student Number: 101195595
-
 Contents:
 	The tar file contains 4 files in total.
 		-morse_code.c
